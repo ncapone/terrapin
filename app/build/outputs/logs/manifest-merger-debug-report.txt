@@ -1,0 +1,117 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/durandal/AndroidStudioProjects/terrapin/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /Users/durandal/AndroidStudioProjects/terrapin/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /Users/durandal/AndroidStudioProjects/terrapin/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /Users/durandal/AndroidStudioProjects/terrapin/app/src/main/AndroidManifest.xml:2:1-28:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/durandal/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/d85a13aa74f94537c597916741380825/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/durandal/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/7dd1378528c94ae737c9e3048eb46974/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/durandal/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/8c327b779f80554f851d67de4c45a4fc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/durandal/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/39e7b814f1ecdbcb9da6cb600b63cdbe/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/durandal/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/9b37d9f600f1f9ec7c2983d10f44a739/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/durandal/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/5af08de276e925e18d6e3cdccc99de16/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/durandal/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/3ccaf9f518044e5486be12b0c256d43a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /Users/durandal/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/5db34c6907fe8f9f1de7a98a4bbeb332/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/durandal/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/e10582c566ed9217e951bc42dc55d5e5/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/durandal/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/546a4b2fb2fab9a036e656683ef3e751/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/durandal/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/b9af1d0743224b238ec031543dae8760/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/durandal/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/c2ff70adb9f59426409eb72ec86688b1/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/durandal/AndroidStudioProjects/terrapin/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /Users/durandal/AndroidStudioProjects/terrapin/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /Users/durandal/AndroidStudioProjects/terrapin/app/src/main/AndroidManifest.xml:2:1-28:12
+	package
+		ADDED from /Users/durandal/AndroidStudioProjects/terrapin/app/src/main/AndroidManifest.xml:3:5-27
+		INJECTED from /Users/durandal/AndroidStudioProjects/terrapin/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/durandal/AndroidStudioProjects/terrapin/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/durandal/AndroidStudioProjects/terrapin/app/src/main/AndroidManifest.xml
+		ADDED from /Users/durandal/AndroidStudioProjects/terrapin/app/src/main/AndroidManifest.xml:2:1-28:12
+		INJECTED from /Users/durandal/AndroidStudioProjects/terrapin/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/durandal/AndroidStudioProjects/terrapin/app/src/main/AndroidManifest.xml
+		ADDED from /Users/durandal/AndroidStudioProjects/terrapin/app/src/main/AndroidManifest.xml:2:1-28:12
+		INJECTED from /Users/durandal/AndroidStudioProjects/terrapin/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/durandal/AndroidStudioProjects/terrapin/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/durandal/AndroidStudioProjects/terrapin/app/src/main/AndroidManifest.xml:5:5-26:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/durandal/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/7dd1378528c94ae737c9e3048eb46974/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/durandal/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/7dd1378528c94ae737c9e3048eb46974/AndroidManifest.xml:9:5-20
+	android:screenOrientation
+		ADDED from /Users/durandal/AndroidStudioProjects/terrapin/app/src/main/AndroidManifest.xml:9:9-45
+	android:supportsRtl
+		ADDED from /Users/durandal/AndroidStudioProjects/terrapin/app/src/main/AndroidManifest.xml:11:9-35
+	android:label
+		ADDED from /Users/durandal/AndroidStudioProjects/terrapin/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /Users/durandal/AndroidStudioProjects/terrapin/app/src/main/AndroidManifest.xml:10:9-54
+	android:icon
+		ADDED from /Users/durandal/AndroidStudioProjects/terrapin/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /Users/durandal/AndroidStudioProjects/terrapin/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /Users/durandal/AndroidStudioProjects/terrapin/app/src/main/AndroidManifest.xml:12:9-40
+activity#com.terrapin.MainActivity
+ADDED from /Users/durandal/AndroidStudioProjects/terrapin/app/src/main/AndroidManifest.xml:14:9-20:20
+	android:name
+		ADDED from /Users/durandal/AndroidStudioProjects/terrapin/app/src/main/AndroidManifest.xml:14:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/durandal/AndroidStudioProjects/terrapin/app/src/main/AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from /Users/durandal/AndroidStudioProjects/terrapin/app/src/main/AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from /Users/durandal/AndroidStudioProjects/terrapin/app/src/main/AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/durandal/AndroidStudioProjects/terrapin/app/src/main/AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from /Users/durandal/AndroidStudioProjects/terrapin/app/src/main/AndroidManifest.xml:18:27-74
+service#com.terrapin.services.AccountRestServices
+ADDED from /Users/durandal/AndroidStudioProjects/terrapin/app/src/main/AndroidManifest.xml:22:9-25:47
+	android:enabled
+		ADDED from /Users/durandal/AndroidStudioProjects/terrapin/app/src/main/AndroidManifest.xml:24:13-35
+	android:exported
+		ADDED from /Users/durandal/AndroidStudioProjects/terrapin/app/src/main/AndroidManifest.xml:25:13-36
+	android:name
+		ADDED from /Users/durandal/AndroidStudioProjects/terrapin/app/src/main/AndroidManifest.xml:23:13-57
+uses-permission#android.permission.INTERNET
+ADDED from /Users/durandal/AndroidStudioProjects/terrapin/app/src/main/AndroidManifest.xml:27:5-67
+	android:name
+		ADDED from /Users/durandal/AndroidStudioProjects/terrapin/app/src/main/AndroidManifest.xml:27:22-64
+uses-sdk
+INJECTED from /Users/durandal/AndroidStudioProjects/terrapin/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/durandal/AndroidStudioProjects/terrapin/app/src/main/AndroidManifest.xml
+INJECTED from /Users/durandal/AndroidStudioProjects/terrapin/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/durandal/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/d85a13aa74f94537c597916741380825/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/durandal/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/d85a13aa74f94537c597916741380825/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/durandal/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/7dd1378528c94ae737c9e3048eb46974/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/durandal/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/7dd1378528c94ae737c9e3048eb46974/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/durandal/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/8c327b779f80554f851d67de4c45a4fc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/durandal/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/8c327b779f80554f851d67de4c45a4fc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/durandal/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/39e7b814f1ecdbcb9da6cb600b63cdbe/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/durandal/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/39e7b814f1ecdbcb9da6cb600b63cdbe/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/durandal/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/9b37d9f600f1f9ec7c2983d10f44a739/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/durandal/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/9b37d9f600f1f9ec7c2983d10f44a739/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/durandal/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/5af08de276e925e18d6e3cdccc99de16/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/durandal/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/5af08de276e925e18d6e3cdccc99de16/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/durandal/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/3ccaf9f518044e5486be12b0c256d43a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/durandal/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/3ccaf9f518044e5486be12b0c256d43a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/durandal/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/5db34c6907fe8f9f1de7a98a4bbeb332/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/durandal/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/5db34c6907fe8f9f1de7a98a4bbeb332/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/durandal/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/e10582c566ed9217e951bc42dc55d5e5/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/durandal/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/e10582c566ed9217e951bc42dc55d5e5/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/durandal/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/546a4b2fb2fab9a036e656683ef3e751/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/durandal/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/546a4b2fb2fab9a036e656683ef3e751/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/durandal/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/b9af1d0743224b238ec031543dae8760/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/durandal/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/b9af1d0743224b238ec031543dae8760/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/durandal/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/c2ff70adb9f59426409eb72ec86688b1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/durandal/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/c2ff70adb9f59426409eb72ec86688b1/AndroidManifest.xml:20:5-44
+INJECTED from /Users/durandal/AndroidStudioProjects/terrapin/app/src/main/AndroidManifest.xml
+INJECTED from /Users/durandal/AndroidStudioProjects/terrapin/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/durandal/AndroidStudioProjects/terrapin/app/src/main/AndroidManifest.xml
+		ADDED from /Users/durandal/AndroidStudioProjects/terrapin/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/durandal/AndroidStudioProjects/terrapin/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/durandal/AndroidStudioProjects/terrapin/app/src/main/AndroidManifest.xml
+		ADDED from /Users/durandal/AndroidStudioProjects/terrapin/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/durandal/AndroidStudioProjects/terrapin/app/src/main/AndroidManifest.xml
